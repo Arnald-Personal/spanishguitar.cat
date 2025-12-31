@@ -3,7 +3,7 @@ $reCAPTCHA  = filter_input( INPUT_POST, 'reCAPTCHA', FILTER_SANITIZE_STRING );
 $captchaUrl = 'https://www.google.com/recaptcha/api/siteverify';
 
 $captchaData = array( // Put your secret key here
-    'secret'   => '6Lf-NwEVAAAAABUaF-yzXnrPVx7TX19aO8PeOuTw',
+    'secret'   => '6LcN5jssAAAAAOirHIZ0hFgdjmtIg968lBxVfsCT',
     'response' => $reCAPTCHA
 );
 
