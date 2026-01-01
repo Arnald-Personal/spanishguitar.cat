@@ -58,30 +58,9 @@
         <?php include "common-php/footer/en.html"; ?>
         <!-- /COMMON-FOOTER -->
 
-        <!-- Modal [responsive menu] -->
-        <div id="menu" class="p-0 modal fade" role="dialog" aria-labelledby="menu" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-slideout" role="document">
-                <div class="modal-content full">
-                    <div class="modal-header" data-dismiss="modal">
-                        <i class="icon-close fas fa-arrow-right"></i>
-                    </div>
-                    <div class="menu modal-body">
-                        <div class="row w-100">
-                            <div class="items p-0 col-12 text-center">
-                                <!-- Append [navbar] -->
-                            </div>
-                            <div class="contacts p-0 col-12 text-center">
-                                <!-- Append [navbar] -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- COMMON-BODY-SCRIPTS -->
-        <?php include "common-php/body-scripts.html"; ?>
-        <!-- /COMMON-BODY-SCRIPTS -->
+        <!-- COMMON-BODY -->
+        <?php include "common-php/body.html"; ?>
+        <!-- /COMMON-BODY -->
 
     </body>
 </html>

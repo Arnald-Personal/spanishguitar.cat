@@ -8,10 +8,10 @@
         <?php include "common-php/head.html"; ?>
         <!-- /COMMON-HEAD -->
 
-        <title>Elegant Spanish Guitarist for Destination Weddings in Barcelona, Costa Brava & Sitges</title>
+        <title>Professional Spanish Guitarist for Weddings in Barcelona</title>
 
-        <meta name="description" content="Professional Spanish guitarist for destination weddings in Barcelona, Costa Brava, and Sitges. Elegant live music for your ceremony and cocktail hour. Book your authentic Mediterranean soundtrack.">
-        <meta name="subject" content="Spanish Guitarist for Weddings and Events in Barcelona, Costa Brava and Sitges">
+        <meta name="description" content="PENDING DESCRIPTION">
+        <meta name="subject" content="PENDING SUBJECT">
         <meta name="author" content="Spanish Guitar - Benja">
         
     </head>
@@ -23,15 +23,15 @@
         <!-- /COMMON-HEADER/NAVIGATION -->
 
         <!-- COMMON-HERO -->
-        <?php include "common-php/hero/main-en.html"; ?>
+        <?php include "common-php/hero/barcelona-en.html"; ?>
         <!-- /COMMON-HERO -->
 
         <!-- COMMON-ABOUT -->
-        <?php include "common-php/about/en.html"; ?>
+        <?php include "common-php/about/barcelona-en.html"; ?>
         <!-- /COMMON-ABOUT -->
 
         <!-- COMMON-VIDEOS -->
-        <?php include "common-php/videos/main-en.html"; ?>
+        <?php include "common-php/videos/barcelona-en.html"; ?>
         <!-- /COMMON-VIDEOS -->
 
         <!-- COMMON-GALLERY -->
