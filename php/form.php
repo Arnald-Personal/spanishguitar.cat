@@ -1,5 +1,5 @@
 <?php
-$recipient = 'ara@saxonara.com'; // Enter the recipient's email address here.
+$recipient = 'info@spanishguitar.cat'; // Enter the recipient's email address here.
 $subject   = 'FORM - SpanishGuitar.cat.'; // Enter the subject of the email here.
 $success   = 'Your message was sent successful. Thanks.';
 $error     = 'Sorry. We were unable to send your message.';
