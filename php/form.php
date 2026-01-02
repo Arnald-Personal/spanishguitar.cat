@@ -1,5 +1,5 @@
 <?php
-$recipient = 'arnaldpedros@gmail.com'; 
+$recipient = 'ara@saxonara.com'; 
 $subject   = 'FORM - SpanishGuitar.cat'; 
 $success   = 'Your message was sent successful. Thanks.';
 $error     = 'Sorry. We were unable to send your message.';
