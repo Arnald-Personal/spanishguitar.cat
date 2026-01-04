@@ -8,9 +8,9 @@
         <?php include "common-php/head.html"; ?>
         <!-- /COMMON-HEAD -->
 
-        <title>Professional Spanish Guitarist for Weddings in Barcelona</title>
+        <title>Professional Spanish Guitarist for Weddings in Costa Brava</title>
 
-        <meta name="description" content="PENDING DESCRIPTION">
+        <meta name="description" content="PENDING DESRIPTION"> ">
         <meta name="subject" content="PENDING SUBJECT">
         <meta name="author" content="Spanish Guitar - Benja">
         
